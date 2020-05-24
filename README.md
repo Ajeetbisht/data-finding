@@ -1,5 +1,4 @@
 # Communicate-Data-Findings
-Udacity's Data Analyst Nanodegree - Project 5
 
 ### The "Why"
 Data visualization is an important skill that is used in many parts of the data analysis process. 
