@@ -7,8 +7,6 @@ Data visualization is an important skill that is used in many parts of the data 
 
 > *Explanatory* data visualization techniques are used after generating your findings, and are used to help communicate your results to others. Understanding design considerations will make sure that your message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help you be a good consumer of visualizations that are presented to you by others.
 
-![Ford GoBike Picture](/bikebay.jpg)
-
 ### Project Details
 
 1. Dataset: [Ford GoBike](https://www.fordgobike.com/system-data)
@@ -17,17 +15,14 @@ Data visualization is an important skill that is used in many parts of the data 
 4. Communicate the findings - a slide deck with my findings is prepared for a curious audience.
 
 ### Project Findings
-This project is a win - win situation where a large number of people can benefit from this program:
+This project is of ford bike share data.
 
 - Environmentally friendly, budget friendly, and lifetsyle friendly.
-- Subscribers (i.e. daily commuters) benefit from a health commuting choice.
-- Customers (i.e. tourists, students, etc.) have a sustainable, yet flexible option for touring the city.
-- Affordable and convenient transportation for the people of all socioeconomic classes.
-- Renting a bike from theFord GoBike System is a fantastic (healthy and environmentally friendly) way of moving around in the city, both for enjoyment and work. 
+- Subscribers (i.e. daily commuters).
+- Customers (i.e. tourists, students, etc).
 
-There are two types of clients using the system: Subscribers and Customers. Subscribers are primarily daily commuters, having short trips to and from work, who rent a bike on weekdays at 8-9am and 5-6pm. Customers are usually tourists or occassional riders who use the system mainly on weekends to explore the Bay Area. Age is also a factor within user type. Subscribers who fall in the age group between 26-35 years old are the most common age group to use the bike sharing system. The 26-35 years old also lead the spike which occurs across all age groups in October. Subscribers who fall in the 36-45 year old age group are the next most common age group to use the bike sharing system, and follow a similar trend at the 26-35 year olds.
+There are two types of clients using the system: Subscribers and Customers. Subscribers are primarily daily commuters, having short trips to and from work, who rent a bike on weekdays at 8-9am and 5-6pm. Customers are usually tourists or occassional riders who use the system mainly on weekends to explore the Bay Area. Age is also a factor within user type. Subscribers who fall in the age group between 26-35 years old are the most common age group to use the bike sharing system.
 
-![Ford GoBike Picture](/FordGo.png)
 
 ### Files
 - readme.md - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis. 
